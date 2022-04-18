@@ -9,7 +9,7 @@ A Bolivia se le asignó: en el contexto ISO 3166‑2 el geocódigo **BO** y el n
 
 ## Organización de este repositorio
 
-En este *git*, **solo se guardan los metadatos**, es decir, descriptores de entidad, como nombres y códigos geográficos &mdash; mapas y otros datos brutos, almacenados externamente porque son muy grandes.  Posteriormente, los "datos en bruto", no estandarizados, se convierten en "datos filtrados" y se conservan en lo [*git* preservCutGeo‑EC2021](http://git.digital-guard.org/preservCutGeo-EC2021).
+En este *git*, **solo se guardan los metadatos**, es decir, descriptores de entidad, como nombres y códigos geográficos &mdash; mapas y otros datos brutos, almacenados externamente porque son muy grandes.  Posteriormente, los "datos en bruto", no estandarizados, se convierten en "datos filtrados" y se conservan en lo [*git* preservCutGeo‑BO2021](http://git.digital-guard.org/preservCutGeo-BO2021).
 
 Los metadatos se organizaron de la siguiente manera, en la carpeta [`/data`](./data):
 
