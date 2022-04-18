@@ -1,4 +1,4 @@
-## Dump OpensStreetMap Bolivia
+## Dump OpenStreetMap Bolivia
 Arquivos utilizados como fonte de dados principal deste repositório, e preservados nos repositórios do [Instituto AddressForAll](https://github.com/AddressForAll/preserv-BO). 
 O download destes arquivos em geral recebem o rótulo de `bolivia-latest.osm.pbf`. 
 A seguir o histórico e metadados das versões utilizadas, organizadas por data (ano-mês-dia).
