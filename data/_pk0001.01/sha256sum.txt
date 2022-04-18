@@ -1,0 +1,1 @@
+59c6811f82c0ed8acdd3da4d7223f4bddfd7a2018bbd83628eaa1ec8582bc3e7 *bolivia-latest.osm.pbf
