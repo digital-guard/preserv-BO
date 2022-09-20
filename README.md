@@ -1,7 +1,7 @@
 # preserv-BO
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Bolivia**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Bolivia se le asignó: en el contexto ISO 3166‑2 el geocódigo **BO** y el número **68**; en Wikidata el identificador [Q750](http://wikidata.org/entity/Q750); en OpenStreetMap el identificador de [*relación* 252645](http://osm.org/relation/252645).
+A Bolivia se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**BO**](https://en.wikipedia.org/wiki/ISO_3166-2:BO) y el número [**68**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q750](http://wikidata.org/entity/Q750); en OpenStreetMap el identificador de [*relación* 252645](http://osm.org/relation/252645).
 
 
 # Organización territorial
