@@ -1,20 +1,20 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4056838,68,23,Baures,B,,1814580,baures,BO-B-Baures,,
-3365948,68,15,Exaltación,B,,1814613,exaltacion,BO-B-Exaltacion,,
-4054846,68,49,Guayaramerín,B,,1487963,guayaramerin,BO-B-Guayaramerin,,
-4056859,68,24,Huacaraje,B,,1814588,huacaraje,BO-B-Huacaraje,,
-4059665,68,60,Loreto,B,,1814603,loreto,BO-B-Loreto,,
-4056828,68,22,Magdalena,B,,1701421,magdalena,BO-B-Magdalena,,
-4055848,68,54,"Puerto Siles",B,,1516817,puerto.siles,BO-B-PuertoSiles,,
-4055250,68,53,Reyes,B,,1516822,reyes,BO-B-Reyes,,
-4054847,68,50,Riberalta,B,,842368,riberalta,BO-B-Riberalta,,
-4055186,68,51,Rurrenabaque,B,,1516809,rurrenabaque,BO-B-Rurrenabaque,,
-4059613,68,59,"San Andres",B,,1535931,san.andres,BO-B-SanAndres,,
-10868035,68,333,"San Borja",B,,2631821,san.borja,BO-B-SanBorja,,
-4058468,68,58,"San Ignacio de Moxos",B,,12219175,san.ignacio.moxos,BO-B-SanIgnacioMoxos,,
-4057054,68,56,"San Javier",B,,256171,san.javier,BO-B-SanJavier,,
-4055849,68,55,"San Joaquin",B,,1292997,san.joaquin,BO-B-SanJoaquin,,
-4055850,68,21,"San Ramón",B,,849354,san.ramon,BO-B-SanRamon,,
-3365921,68,14,"Santa Ana del Yacuma",B,,685208,santa.ana.yacuma,BO-B-SantaAnaYacuma,,
-4055188,68,52,"Santa Rosa",B,,1516796,santa.rosa,BO-B-SantaRosa,,
-4057055,68,57,Trinidad,B,,842343,trinidad,BO-B-Trinidad,,
+4056838,68,23,Baures,B,,1814580,baures,BO-B-Baures,,"{""area_sr"": 1.47778, ""area_km2"": 17693, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 133, ""side_estim_deg"": 1.2156, ""elongation_factor"": 2.4}"
+3365948,68,15,Exaltación,B,,1814613,exaltacion,BO-B-Exaltacion,,"{""area_sr"": 1.99326, ""area_km2"": 23942, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 154.7, ""side_estim_deg"": 1.4118, ""elongation_factor"": 1.73}"
+4054846,68,49,Guayaramerín,B,,1487963,guayaramerin,BO-B-Guayaramerin,,"{""area_sr"": 0.53022, ""area_km2"": 6403, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 80, ""side_estim_deg"": 0.7282, ""elongation_factor"": 3.11}"
+4056859,68,24,Huacaraje,B,,1814588,huacaraje,BO-B-Huacaraje,,"{""area_sr"": 0.48053, ""area_km2"": 5748, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 75.8, ""side_estim_deg"": 0.6932, ""elongation_factor"": 1.51}"
+4059665,68,60,Loreto,B,,1814603,loreto,BO-B-Loreto,,"{""area_sr"": 0.46133, ""area_km2"": 5479, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 74, ""side_estim_deg"": 0.6792, ""elongation_factor"": 1.82}"
+4056828,68,22,Magdalena,B,,1701421,magdalena,BO-B-Magdalena,,"{""area_sr"": 1.188, ""area_km2"": 14259, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 119.4, ""side_estim_deg"": 1.09, ""elongation_factor"": 1.73}"
+4055848,68,54,"Puerto Siles",B,,1516817,puerto.siles,BO-B-PuertoSiles,,"{""area_sr"": 0.17812, ""area_km2"": 2142, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 46.3, ""side_estim_deg"": 0.422, ""elongation_factor"": 2.68}"
+4055250,68,53,Reyes,B,,1516822,reyes,BO-B-Reyes,,"{""area_sr"": 1.05254, ""area_km2"": 12615, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 112.3, ""side_estim_deg"": 1.0259, ""elongation_factor"": 4.18}"
+4054847,68,50,Riberalta,B,,842368,riberalta,BO-B-Riberalta,,"{""area_sr"": 0.8057, ""area_km2"": 9725, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 98.6, ""side_estim_deg"": 0.8976, ""elongation_factor"": 2.63}"
+4055186,68,51,Rurrenabaque,B,,1516809,rurrenabaque,BO-B-Rurrenabaque,,"{""area_sr"": 0.23035, ""area_km2"": 2744, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 52.4, ""side_estim_deg"": 0.4799, ""elongation_factor"": 2.25}"
+4059613,68,59,"San Andres",B,,1535931,san.andres,BO-B-SanAndres,,"{""area_sr"": 0.84426, ""area_km2"": 10035, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 100.2, ""side_estim_deg"": 0.9188, ""elongation_factor"": 2.2}"
+10868035,68,333,"San Borja",B,,2631821,san.borja,BO-B-SanBorja,,"{""area_sr"": 0.73431, ""area_km2"": 8738, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 93.5, ""side_estim_deg"": 0.8569, ""elongation_factor"": 1.52}"
+4058468,68,58,"San Ignacio de Moxos",B,,12219175,san.ignacio.moxos,BO-B-SanIgnacioMoxos,,"{""area_sr"": 1.96962, ""area_km2"": 23392, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 152.9, ""side_estim_deg"": 1.4034, ""elongation_factor"": 2.22}"
+4057054,68,56,"San Javier",B,,256171,san.javier,BO-B-SanJavier,,"{""area_sr"": 0.7973, ""area_km2"": 9509, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 97.5, ""side_estim_deg"": 0.8929, ""elongation_factor"": 1.88}"
+4055849,68,55,"San Joaquin",B,,1292997,san.joaquin,BO-B-SanJoaquin,,"{""area_sr"": 0.72169, ""area_km2"": 8662, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 93.1, ""side_estim_deg"": 0.8495, ""elongation_factor"": 3.62}"
+4055850,68,21,"San Ramón",B,,849354,san.ramon,BO-B-SanRamon,,"{""area_sr"": 0.64387, ""area_km2"": 7713, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 87.8, ""side_estim_deg"": 0.8024, ""elongation_factor"": 2.81}"
+3365921,68,14,"Santa Ana del Yacuma",B,,685208,santa.ana.yacuma,BO-B-SantaAnaYacuma,,"{""area_sr"": 1.85991, ""area_km2"": 22201, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 149, ""side_estim_deg"": 1.3638, ""elongation_factor"": 2.33}"
+4055188,68,52,"Santa Rosa",B,,1516796,santa.rosa,BO-B-SantaRosa,,"{""area_sr"": 0.99722, ""area_km2"": 11967, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 109.4, ""side_estim_deg"": 0.9986, ""elongation_factor"": 4}"
+4057055,68,57,Trinidad,B,,842343,trinidad,BO-B-Trinidad,,"{""area_sr"": 0.08391, ""area_km2"": 999, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 31.6, ""side_estim_deg"": 0.2897, ""elongation_factor"": 2.14}"

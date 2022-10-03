@@ -1,36 +1,36 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4495077,68,130,Antequera,O,,647847,antequera,BO-O-Antequera,,
-4495038,68,114,Aullagas,O,,647728,aullagas,BO-O-Aullagas,,
-4495026,68,126,"Belén de Andamarca",O,,647861,belen.andamarca,BO-O-BelenAndamarca,,
-4494694,68,104,Caracollo,O,,647907,caracollo,BO-O-Caracollo,,
-4494972,68,124,Carangas,O,,647761,carangas,BO-O-Carangas,,
-4495088,68,133,Challapata,O,,647865,challapata,BO-O-Challapata,,
-4494864,68,117,Chipaya,O,,647818,chipaya,BO-O-Chipaya,,
-4494773,68,109,Choquecota,O,,647829,choquecota,BO-O-Choquecota,,
-4494865,68,118,Coipasa,O,,647739,coipasa,BO-O-Coipasa,,
-4494774,68,110,Corque,O,,647881,corque,BO-O-Corque,,
-4494820,68,111,"Cruz de Machacamarca",O,,647771,cruz.machacamarca,BO-O-CruzMachacamarca,,
-4482219,68,98,"Curahuara de Carangas",O,,614715,curahuara.carangas,BO-O-CurahuaraCarangas,,
-4494716,68,106,"El Choro",O,,647796,el.choro,BO-O-ElChoro,,
-4494821,68,112,Escara,O,,647895,escara,BO-O-Escara,,
-4494822,68,113,Esmeralda,O,,174806,esmeralda,BO-O-Esmeralda,,
-4494640,68,103,Eucaliptus,O,,1016533,eucaliptus,BO-O-Eucaliptus,,
-4494823,68,102,Huachacalla,O,,647800,huachacalla,BO-O-Huachacalla,,
-4495052,68,129,Huanuni,O,,647811,huanuni,BO-O-Huanuni,,
-4494973,68,125,"La Rivera",O,,647786,la.rivera,BO-O-LaRivera,,
-4495051,68,128,Machacamarca,O,,647754,machacamarca,BO-O-Machacamarca,,
-4494717,68,107,Oruro,O,,1953059,oruro,BO-O-Oruro,,
-4495078,68,131,Pazña,O,,528661,pazna,BO-O-Pazna,,
-4495079,68,132,Poopó,O,,1520813,poopo,BO-O-Poopo,,
-4495089,68,134,Quillacas,O,,647890,quillacas,BO-O-Quillacas,,
-4494866,68,119,Sabaya,O,,1478043,sabaya,BO-O-Sabaya,,
-4495039,68,115,"Salinas de Garcí Mendoza",O,,1016557,salinas.garci.mendoza,BO-O-SalinasGarciMendoza,,
-4482342,68,100,"San Pedro de Totora",O,,1953183,san.pedro.totora,BO-O-SanPedroTotora,,
-4495027,68,127,"Santiago de Andamarca",O,,647778,santiago.andamarca,BO-O-SantiagoAndamarca,,
-4495090,68,135,"Santiago de Huari",O,,1002105,santiago.huari,BO-O-SantiagoHuari,,
-4494599,68,101,"Santiago de Huayllamarca",O,,2006663,santiago.huayllamarca,BO-O-SantiagoHuayllamarca,,
-4494711,68,105,Soracachi,O,,684618,soracachi,BO-O-Soracachi,,
-4494971,68,120,"Todos Santos",O,,647838,todos.santos,BO-O-TodosSantos,,
-4494747,68,108,Toledo,O,,523242,toledo,BO-O-Toledo,,
-4482220,68,99,Turco,O,,796998,turco,BO-O-Turco,,
-4494824,68,116,"Yunguyo del Litoral",O,,647918,yunguyo.litoral,BO-O-YunguyoLitoral,,
+4495077,68,130,Antequera,O,,647847,antequera,BO-O-Antequera,,"{""area_sr"": 0.02418, ""area_km2"": 283, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 16.8, ""side_estim_deg"": 0.1555, ""elongation_factor"": 2.36}"
+4495038,68,114,Aullagas,O,,647728,aullagas,BO-O-Aullagas,,"{""area_sr"": 0.08805, ""area_km2"": 1025, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 32, ""side_estim_deg"": 0.2967, ""elongation_factor"": 1.7}"
+4495026,68,126,"Belén de Andamarca",O,,647861,belen.andamarca,BO-O-BelenAndamarca,,"{""area_sr"": 0.0921, ""area_km2"": 1074, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 32.8, ""side_estim_deg"": 0.3035, ""elongation_factor"": 1.97}"
+4494694,68,104,Caracollo,O,,647907,caracollo,BO-O-Caracollo,,"{""area_sr"": 0.2024, ""area_km2"": 2377, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 48.8, ""side_estim_deg"": 0.4499, ""elongation_factor"": 2.62}"
+4494972,68,124,Carangas,O,,647761,carangas,BO-O-Carangas,,"{""area_sr"": 0.02192, ""area_km2"": 256, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 16, ""side_estim_deg"": 0.1481, ""elongation_factor"": 1.93}"
+4495088,68,133,Challapata,O,,647865,challapata,BO-O-Challapata,,"{""area_sr"": 0.20391, ""area_km2"": 2378, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 48.8, ""side_estim_deg"": 0.4516, ""elongation_factor"": 3}"
+4494864,68,117,Chipaya,O,,647818,chipaya,BO-O-Chipaya,,"{""area_sr"": 0.02667, ""area_km2"": 311, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 17.6, ""side_estim_deg"": 0.1633, ""elongation_factor"": 2.45}"
+4494773,68,109,Choquecota,O,,647829,choquecota,BO-O-Choquecota,,"{""area_sr"": 0.07213, ""area_km2"": 845, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2686, ""elongation_factor"": 1.76}"
+4494865,68,118,Coipasa,O,,647739,coipasa,BO-O-Coipasa,,"{""area_sr"": 0.01652, ""area_km2"": 192, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 13.9, ""side_estim_deg"": 0.1285, ""elongation_factor"": 2.78}"
+4494774,68,110,Corque,O,,647881,corque,BO-O-Corque,,"{""area_sr"": 0.28727, ""area_km2"": 3359, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 58, ""side_estim_deg"": 0.536, ""elongation_factor"": 1.79}"
+4494820,68,111,"Cruz de Machacamarca",O,,647771,cruz.machacamarca,BO-O-CruzMachacamarca,,"{""area_sr"": 0.04461, ""area_km2"": 521, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 22.8, ""side_estim_deg"": 0.2112, ""elongation_factor"": 1.59}"
+4482219,68,98,"Curahuara de Carangas",O,,614715,curahuara.carangas,BO-O-CurahuaraCarangas,,"{""area_sr"": 0.24329, ""area_km2"": 2852, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 53.4, ""side_estim_deg"": 0.4932, ""elongation_factor"": 2.18}"
+4494716,68,106,"El Choro",O,,647796,el.choro,BO-O-ElChoro,,"{""area_sr"": 0.08394, ""area_km2"": 983, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 31.3, ""side_estim_deg"": 0.2897, ""elongation_factor"": 2.58}"
+4494821,68,112,Escara,O,,647895,escara,BO-O-Escara,,"{""area_sr"": 0.09924, ""area_km2"": 1159, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 34, ""side_estim_deg"": 0.315, ""elongation_factor"": 2.22}"
+4494822,68,113,Esmeralda,O,,174806,esmeralda,BO-O-Esmeralda,,"{""area_sr"": 0.05166, ""area_km2"": 602, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 24.5, ""side_estim_deg"": 0.2273, ""elongation_factor"": 2.46}"
+4494640,68,103,Eucaliptus,O,,1016533,eucaliptus,BO-O-Eucaliptus,,"{""area_sr"": 0.0288, ""area_km2"": 338, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 18.4, ""side_estim_deg"": 0.1697, ""elongation_factor"": 1.52}"
+4494823,68,102,Huachacalla,O,,647800,huachacalla,BO-O-Huachacalla,,"{""area_sr"": 0.00177, ""area_km2"": 21, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 4.5, ""side_estim_deg"": 0.0421, ""elongation_factor"": 1.61}"
+4495052,68,129,Huanuni,O,,647811,huanuni,BO-O-Huanuni,,"{""area_sr"": 0.04716, ""area_km2"": 552, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23.5, ""side_estim_deg"": 0.2172, ""elongation_factor"": 2.75}"
+4494973,68,125,"La Rivera",O,,647786,la.rivera,BO-O-LaRivera,,"{""area_sr"": 0.01697, ""area_km2"": 198, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 14.1, ""side_estim_deg"": 0.1303, ""elongation_factor"": 1.95}"
+4495051,68,128,Machacamarca,O,,647754,machacamarca,BO-O-Machacamarca,,"{""area_sr"": 0.02612, ""area_km2"": 306, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 17.5, ""side_estim_deg"": 0.1616, ""elongation_factor"": 1.47}"
+4494717,68,107,Oruro,O,,1953059,oruro,BO-O-Oruro,,"{""area_sr"": 0.02358, ""area_km2"": 276, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 16.6, ""side_estim_deg"": 0.1536, ""elongation_factor"": 1.58}"
+4495078,68,131,Pazña,O,,528661,pazna,BO-O-Pazna,,"{""area_sr"": 0.04853, ""area_km2"": 567, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 23.8, ""side_estim_deg"": 0.2203, ""elongation_factor"": 2.21}"
+4495079,68,132,Poopó,O,,1520813,poopo,BO-O-Poopo,,"{""area_sr"": 0.0608, ""area_km2"": 711, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 26.7, ""side_estim_deg"": 0.2466, ""elongation_factor"": 1.82}"
+4495089,68,134,Quillacas,O,,647890,quillacas,BO-O-Quillacas,,"{""area_sr"": 0.07805, ""area_km2"": 908, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 30.1, ""side_estim_deg"": 0.2794, ""elongation_factor"": 1.96}"
+4494866,68,119,Sabaya,O,,1478043,sabaya,BO-O-Sabaya,,"{""area_sr"": 0.3093, ""area_km2"": 3607, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 60.1, ""side_estim_deg"": 0.5561, ""elongation_factor"": 2.9}"
+4495039,68,115,"Salinas de Garcí Mendoza",O,,1016557,salinas.garci.mendoza,BO-O-SalinasGarciMendoza,,"{""area_sr"": 0.42648, ""area_km2"": 4958, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 70.4, ""side_estim_deg"": 0.6531, ""elongation_factor"": 2.83}"
+4482342,68,100,"San Pedro de Totora",O,,1953183,san.pedro.totora,BO-O-SanPedroTotora,,"{""area_sr"": 0.12293, ""area_km2"": 1442, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 38, ""side_estim_deg"": 0.3506, ""elongation_factor"": 1.79}"
+4495027,68,127,"Santiago de Andamarca",O,,647778,santiago.andamarca,BO-O-SantiagoAndamarca,,"{""area_sr"": 0.17301, ""area_km2"": 2018, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 44.9, ""side_estim_deg"": 0.4159, ""elongation_factor"": 2.02}"
+4495090,68,135,"Santiago de Huari",O,,1002105,santiago.huari,BO-O-SantiagoHuari,,"{""area_sr"": 0.20343, ""area_km2"": 2369, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 48.7, ""side_estim_deg"": 0.451, ""elongation_factor"": 1.89}"
+4494599,68,101,"Santiago de Huayllamarca",O,,2006663,santiago.huayllamarca,BO-O-SantiagoHuayllamarca,,"{""area_sr"": 0.07535, ""area_km2"": 884, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.7, ""side_estim_deg"": 0.2745, ""elongation_factor"": 2.4}"
+4494711,68,105,Soracachi,O,,684618,soracachi,BO-O-Soracachi,,"{""area_sr"": 0.11675, ""area_km2"": 1369, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 37, ""side_estim_deg"": 0.3417, ""elongation_factor"": 2.13}"
+4494971,68,120,"Todos Santos",O,,647838,todos.santos,BO-O-TodosSantos,,"{""area_sr"": 0.02029, ""area_km2"": 236, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 15.4, ""side_estim_deg"": 0.1425, ""elongation_factor"": 1.7}"
+4494747,68,108,Toledo,O,,523242,toledo,BO-O-Toledo,,"{""area_sr"": 0.23046, ""area_km2"": 2698, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 51.9, ""side_estim_deg"": 0.4801, ""elongation_factor"": 2.25}"
+4482220,68,99,Turco,O,,796998,turco,BO-O-Turco,,"{""area_sr"": 0.40722, ""area_km2"": 4764, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 69, ""side_estim_deg"": 0.6381, ""elongation_factor"": 1.88}"
+4494824,68,116,"Yunguyo del Litoral",O,,647918,yunguyo.litoral,BO-O-YunguyoLitoral,,"{""area_sr"": 0.01505, ""area_km2"": 176, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 13.2, ""side_estim_deg"": 0.1227, ""elongation_factor"": 1.97}"

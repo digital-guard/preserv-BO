@@ -1,39 +1,39 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4123549,68,45,Acasio,P,,1477964,acasio,BO-P-Acasio,,
-4123465,68,61,Arampampa,P,,1477973,arampampa,BO-P-Arampampa,,
-4137627,68,67,Atocha,P,,1477927,atocha,BO-P-Atocha,,
-4128143,68,81,Betanzos,P,,1477951,betanzos,BO-P-Betanzos,,
-4128593,68,83,"Caiza D",P,,637609,caiza.d,BO-P-CaizaD,,
-4123740,68,63,Caripuyo,P,,1477999,caripuyo,BO-P-Caripuyo,,
-4128144,68,65,Chaquí,P,,637599,chaqui,BO-P-Chaqui,,
-4126927,68,64,Chayanta,P,,1784443,chayanta,BO-P-Chayanta,,
-4137592,68,88,"Colcha K",P,,475470,colcha.k,BO-P-ColchaK,,
-4126993,68,72,Colquechaca,P,,933162,colquechaca,BO-P-Colquechaca,,
-4137628,68,68,Cotagaita,P,,637643,cotagaita,BO-P-Cotagaita,,
-4126928,68,66,Llallagua,P,,624490,llallagua,BO-P-Llallagua,,
-4134802,68,85,Llica,P,,1016542,llica,BO-P-Llica,,
-4137593,68,89,Mojinete,P,,1783667,mojinete,BO-P-Mojinete,,
-4126994,68,73,Ocurí,P,,1784436,ocuri,BO-P-Ocuri,,
-4126995,68,74,Pocoata,P,,1477914,pocoata,BO-P-Pocoata,,
-4137629,68,93,Porco,P,,628665,porco,BO-P-Porco,,
-4127118,68,76,Potosí,P,,1335276,potosi,BO-P-Potosi,,
-4128594,68,84,Puna,P,,637655,puna,BO-P-Puna,,
-4126996,68,75,Ravelo,P,,1477747,ravelo,BO-P-Ravelo,,
-4123687,68,62,Sacaca,P,,1477919,sacaca,BO-P-Sacaca,,
-4137630,68,77,"San Agustin",P,,1953135,san.agustin,BO-P-SanAgustin,,
-4137594,68,90,"San Antonio de Esmoruco",P,,1477933,san.antonio.esmoruco,BO-P-SanAntonioEsmoruco,,
-4137595,68,91,"San Pablo de Lipez",P,,1477898,san.pablo.lipez,BO-P-SanPabloLipez,,
-4126936,68,70,"San Pedro",P,,624522,san.pedro,BO-P-SanPedro,,
-4136111,68,87,"San Pedro de Quemes",P,,540223,san.pedro.quemes,BO-P-SanPedroQuemes,,
-4128145,68,82,Tacobamba,P,,637620,tacobamba,BO-P-Tacobamba,,
-4135011,68,86,Tahua,P,,1477909,tahua,BO-P-Tahua,,
-4127119,68,78,Tinguipaya,P,,1477957,tinguipaya,BO-P-Tinguipaya,,
-4137631,68,94,Tomave,P,,1477902,tomave,BO-P-Tomave,,
-4126937,68,71,"Toro Toro",P,,624520,toro.toro,BO-P-ToroToro,,
-4137632,68,95,Tupiza,P,,1477662,tupiza,BO-P-Tupiza,,
-4126929,68,69,Uncía,P,,1642052,uncia,BO-P-Uncia,,
-4127120,68,79,Urmiri,P,,1478062,urmiri,BO-P-Urmiri,,
-4137633,68,96,Uyuni,P,,1478014,uyuni,BO-P-Uyuni,,
-4137626,68,92,Villazón,P,,15835839,villazon,BO-P-Villazon,,
-4137634,68,97,Vitichi,P,,1533308,vitichi,BO-P-Vitichi,,
-4127121,68,80,Yocalla,P,,1477980,yocalla,BO-P-Yocalla,,
+4123549,68,45,Acasio,P,,1477964,acasio,BO-P-Acasio,,"{""area_sr"": 0.02952, ""area_km2"": 346, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 18.6, ""side_estim_deg"": 0.1718, ""elongation_factor"": 1.83}"
+4123465,68,61,Arampampa,P,,1477973,arampampa,BO-P-Arampampa,,"{""area_sr"": 0.03611, ""area_km2"": 423, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 20.6, ""side_estim_deg"": 0.19, ""elongation_factor"": 2.32}"
+4137627,68,67,Atocha,P,,1477927,atocha,BO-P-Atocha,,"{""area_sr"": 0.17908, ""area_km2"": 2060, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 45.4, ""side_estim_deg"": 0.4232, ""elongation_factor"": 1.43}"
+4128143,68,81,Betanzos,P,,1477951,betanzos,BO-P-Betanzos,,"{""area_sr"": 0.15827, ""area_km2"": 1840, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 42.9, ""side_estim_deg"": 0.3978, ""elongation_factor"": 2.06}"
+4128593,68,83,"Caiza D",P,,637609,caiza.d,BO-P-CaizaD,,"{""area_sr"": 0.12201, ""area_km2"": 1414, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 37.6, ""side_estim_deg"": 0.3493, ""elongation_factor"": 1.75}"
+4123740,68,63,Caripuyo,P,,1477999,caripuyo,BO-P-Caripuyo,,"{""area_sr"": 0.04438, ""area_km2"": 520, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 22.8, ""side_estim_deg"": 0.2107, ""elongation_factor"": 1.76}"
+4128144,68,65,Chaquí,P,,637599,chaqui,BO-P-Chaqui,,"{""area_sr"": 0.03822, ""area_km2"": 444, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 21.1, ""side_estim_deg"": 0.1955, ""elongation_factor"": 1.93}"
+4126927,68,64,Chayanta,P,,1784443,chayanta,BO-P-Chayanta,,"{""area_sr"": 0.05314, ""area_km2"": 622, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 24.9, ""side_estim_deg"": 0.2305, ""elongation_factor"": 2.14}"
+4137592,68,88,"Colcha K",P,,475470,colcha.k,BO-P-ColchaK,,"{""area_sr"": 2.10591, ""area_km2"": 24249, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 155.7, ""side_estim_deg"": 1.4512, ""elongation_factor"": 2.64}"
+4126993,68,72,Colquechaca,P,,933162,colquechaca,BO-P-Colquechaca,,"{""area_sr"": 0.14286, ""area_km2"": 1667, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 40.8, ""side_estim_deg"": 0.378, ""elongation_factor"": 2.69}"
+4137628,68,68,Cotagaita,P,,637643,cotagaita,BO-P-Cotagaita,,"{""area_sr"": 0.55275, ""area_km2"": 6376, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 79.9, ""side_estim_deg"": 0.7435, ""elongation_factor"": 2.01}"
+4126928,68,66,Llallagua,P,,624490,llallagua,BO-P-Llallagua,,"{""area_sr"": 0.04569, ""area_km2"": 534, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23.1, ""side_estim_deg"": 0.2137, ""elongation_factor"": 1.71}"
+4134802,68,85,Llica,P,,1016542,llica,BO-P-Llica,,"{""area_sr"": 0.61166, ""area_km2"": 7082, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 84.2, ""side_estim_deg"": 0.7821, ""elongation_factor"": 1.79}"
+4137593,68,89,Mojinete,P,,1783667,mojinete,BO-P-Mojinete,,"{""area_sr"": 0.03611, ""area_km2"": 413, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 20.3, ""side_estim_deg"": 0.19, ""elongation_factor"": 1.83}"
+4126994,68,73,Ocurí,P,,1784436,ocuri,BO-P-Ocuri,,"{""area_sr"": 0.07912, ""area_km2"": 923, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 30.4, ""side_estim_deg"": 0.2813, ""elongation_factor"": 2.2}"
+4126995,68,74,Pocoata,P,,1477914,pocoata,BO-P-Pocoata,,"{""area_sr"": 0.10319, ""area_km2"": 1205, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 34.7, ""side_estim_deg"": 0.3212, ""elongation_factor"": 2.2}"
+4137629,68,93,Porco,P,,628665,porco,BO-P-Porco,,"{""area_sr"": 0.09718, ""area_km2"": 1127, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 33.6, ""side_estim_deg"": 0.3117, ""elongation_factor"": 1.39}"
+4127118,68,76,Potosí,P,,1335276,potosi,BO-P-Potosi,,"{""area_sr"": 0.10259, ""area_km2"": 1192, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 34.5, ""side_estim_deg"": 0.3203, ""elongation_factor"": 2.5}"
+4128594,68,84,Puna,P,,637655,puna,BO-P-Puna,,"{""area_sr"": 0.30713, ""area_km2"": 3563, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 59.7, ""side_estim_deg"": 0.5542, ""elongation_factor"": 2.98}"
+4126996,68,75,Ravelo,P,,1477747,ravelo,BO-P-Ravelo,,"{""area_sr"": 0.10572, ""area_km2"": 1234, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 35.1, ""side_estim_deg"": 0.3251, ""elongation_factor"": 1.51}"
+4123687,68,62,Sacaca,P,,1477919,sacaca,BO-P-Sacaca,,"{""area_sr"": 0.07552, ""area_km2"": 885, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.7, ""side_estim_deg"": 0.2748, ""elongation_factor"": 2.2}"
+4137630,68,77,"San Agustin",P,,1953135,san.agustin,BO-P-SanAgustin,,"{""area_sr"": 0.19975, ""area_km2"": 2292, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 47.9, ""side_estim_deg"": 0.4469, ""elongation_factor"": 1.86}"
+4137594,68,90,"San Antonio de Esmoruco",P,,1477933,san.antonio.esmoruco,BO-P-SanAntonioEsmoruco,,"{""area_sr"": 0.22267, ""area_km2"": 2545, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 50.4, ""side_estim_deg"": 0.4719, ""elongation_factor"": 1.94}"
+4137595,68,91,"San Pablo de Lipez",P,,1477898,san.pablo.lipez,BO-P-SanPabloLipez,,"{""area_sr"": 1.1874, ""area_km2"": 13562, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 116.5, ""side_estim_deg"": 1.0897, ""elongation_factor"": 2.3}"
+4126936,68,70,"San Pedro",P,,624522,san.pedro,BO-P-SanPedro,,"{""area_sr"": 0.18298, ""area_km2"": 2141, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 46.3, ""side_estim_deg"": 0.4278, ""elongation_factor"": 1.88}"
+4136111,68,87,"San Pedro de Quemes",P,,540223,san.pedro.quemes,BO-P-SanPedroQuemes,,"{""area_sr"": 0.37097, ""area_km2"": 4271, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 65.4, ""side_estim_deg"": 0.6091, ""elongation_factor"": 2.03}"
+4128145,68,82,Tacobamba,P,,637620,tacobamba,BO-P-Tacobamba,,"{""area_sr"": 0.07097, ""area_km2"": 826, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 28.7, ""side_estim_deg"": 0.2664, ""elongation_factor"": 1.91}"
+4135011,68,86,Tahua,P,,1477909,tahua,BO-P-Tahua,,"{""area_sr"": 0.2836, ""area_km2"": 3283, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 57.3, ""side_estim_deg"": 0.5325, ""elongation_factor"": 2.19}"
+4127119,68,78,Tinguipaya,P,,1477957,tinguipaya,BO-P-Tinguipaya,,"{""area_sr"": 0.12517, ""area_km2"": 1457, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3538, ""elongation_factor"": 1.62}"
+4137631,68,94,Tomave,P,,1477902,tomave,BO-P-Tomave,,"{""area_sr"": 0.71352, ""area_km2"": 8261, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 90.9, ""side_estim_deg"": 0.8447, ""elongation_factor"": 1.83}"
+4126937,68,71,"Toro Toro",P,,624520,toro.toro,BO-P-ToroToro,,"{""area_sr"": 0.10025, ""area_km2"": 1174, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 34.3, ""side_estim_deg"": 0.3166, ""elongation_factor"": 2.27}"
+4137632,68,95,Tupiza,P,,1477662,tupiza,BO-P-Tupiza,,"{""area_sr"": 0.53133, ""area_km2"": 6097, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 78.1, ""side_estim_deg"": 0.7289, ""elongation_factor"": 2.1}"
+4126929,68,69,Uncía,P,,1642052,uncia,BO-P-Uncia,,"{""area_sr"": 0.09811, ""area_km2"": 1146, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 33.9, ""side_estim_deg"": 0.3132, ""elongation_factor"": 1.63}"
+4127120,68,79,Urmiri,P,,1478062,urmiri,BO-P-Urmiri,,"{""area_sr"": 0.11019, ""area_km2"": 1281, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 35.8, ""side_estim_deg"": 0.332, ""elongation_factor"": 1.26}"
+4137633,68,96,Uyuni,P,,1478014,uyuni,BO-P-Uyuni,,"{""area_sr"": 0.67134, ""area_km2"": 7771, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 88.2, ""side_estim_deg"": 0.8194, ""elongation_factor"": 3.2}"
+4137626,68,92,Villazón,P,,15835839,villazon,BO-P-Villazon,,"{""area_sr"": 0.22328, ""area_km2"": 2555, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 50.5, ""side_estim_deg"": 0.4725, ""elongation_factor"": 2.14}"
+4137634,68,97,Vitichi,P,,1533308,vitichi,BO-P-Vitichi,,"{""area_sr"": 0.14968, ""area_km2"": 1730, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 41.6, ""side_estim_deg"": 0.3869, ""elongation_factor"": 1.73}"
+4127121,68,80,Yocalla,P,,1477980,yocalla,BO-P-Yocalla,,"{""area_sr"": 0.07385, ""area_km2"": 858, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 29.3, ""side_estim_deg"": 0.2717, ""elongation_factor"": 1.83}"

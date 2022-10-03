@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-405935,68,233169,Beni,BO,B,233169,beni,BO-B,,
-396197,68,235110,Chuquisaca,BO,H,235110,chuquisaca,BO-H,,
-393562,68,233917,Cochabamba,BO,C,233917,cochabamba,BO-C,,
-400473,68,272784,"La Paz",BO,L,272784,la.paz,BO-L,,
-395910,68,1061368,Oruro,BO,O,1061368,oruro,BO-O,,
-3358584,68,235362,Pando,BO,N,235362,pando,BO-N,,
-4509552,68,238079,Potosí,BO,P,238079,potosi,BO-P,,
-3360565,68,235106,"Santa Cruz",BO,S,235106,santa.cruz,BO-S,,
-396198,68,233933,Tarija,BO,T,233933,tarija,BO-T,,
+405935,68,233169,Beni,BO,B,233169,beni,BO-B,,"{""area_sr"": 17.04991, ""area_km2"": 203969, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 451.6, ""side_estim_deg"": 4.1292, ""elongation_factor"": 2.33}"
+396197,68,235110,Chuquisaca,BO,H,235110,chuquisaca,BO-H,,"{""area_sr"": 4.39555, ""area_km2"": 50910, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 225.6, ""side_estim_deg"": 2.0966, ""elongation_factor"": 3}"
+393562,68,233917,Cochabamba,BO,C,233917,cochabamba,BO-C,,"{""area_sr"": 4.88507, ""area_km2"": 57511, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 239.8, ""side_estim_deg"": 2.2102, ""elongation_factor"": 2.48}"
+400473,68,272784,"La Paz",BO,L,272784,la.paz,BO-L,,"{""area_sr"": 11.04626, ""area_km2"": 131263, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 362.3, ""side_estim_deg"": 3.3236, ""elongation_factor"": 2.47}"
+395910,68,1061368,Oruro,BO,O,1061368,oruro,BO-O,,"{""area_sr"": 4.42995, ""area_km2"": 51739, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 227.5, ""side_estim_deg"": 2.1047, ""elongation_factor"": 2.07}"
+3358584,68,235362,Pando,BO,N,235362,pando,BO-N,,"{""area_sr"": 5.26312, ""area_km2"": 63606, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 252.2, ""side_estim_deg"": 2.2941, ""elongation_factor"": 2.69}"
+4509552,68,238079,Potosí,BO,P,238079,potosi,BO-P,,"{""area_sr"": 10.34123, ""area_km2"": 119369, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 345.5, ""side_estim_deg"": 3.2158, ""elongation_factor"": 2.57}"
+3360565,68,235106,"Santa Cruz",BO,S,235106,santa.cruz,BO-S,,"{""area_sr"": 31.28116, ""area_km2"": 368076, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 606.7, ""side_estim_deg"": 5.593, ""elongation_factor"": 1.97}"
+396198,68,233933,Tarija,BO,T,233933,tarija,BO-T,,"{""area_sr"": 3.2488, ""area_km2"": 37241, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 193, ""side_estim_deg"": 1.8024, ""elongation_factor"": 2.25}"

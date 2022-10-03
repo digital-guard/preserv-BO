@@ -1,12 +1,12 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4509723,68,270,Bermejo,T,,328294,bermejo,BO-T-Bermejo,,
-4509724,68,271,Caraparí,T,,328289,carapari,BO-T-Carapari,,
-4509725,68,272,"Entre Rios",T,,15121209,entre.rios,BO-T-EntreRios,,
-4509726,68,273,Padcaya,T,,328276,padcaya,BO-T-Padcaya,,
-4509727,68,274,Tarija,T,,1953215,tarija,BO-T-Tarija,,
-4509728,68,275,Tomayapo,T,,277520,tomayapo,BO-T-Tomayapo,,
-4509729,68,276,Uriondo,T,,689990,uriondo,BO-T-Uriondo,,
-4509731,68,278,"Villa Montes",T,,328298,villa.montes,BO-T-VillaMontes,,
-4509730,68,277,"Villa San Lorenzo",T,,328285,villa.san.lorenzo,BO-T-VillaSanLorenzo,,
-4509732,68,279,Yacuíba,T,,328303,yacuiba,BO-T-Yacuiba,,
-4509733,68,280,Yunchará,T,,328307,yunchara,BO-T-Yunchara,,
+4509723,68,270,Bermejo,T,,328294,bermejo,BO-T-Bermejo,,"{""area_sr"": 0.03416, ""area_km2"": 389, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 19.7, ""side_estim_deg"": 0.1848, ""elongation_factor"": 2.26}"
+4509724,68,271,Caraparí,T,,328289,carapari,BO-T-Carapari,,"{""area_sr"": 0.2723, ""area_km2"": 3117, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 55.8, ""side_estim_deg"": 0.5218, ""elongation_factor"": 2.88}"
+4509725,68,272,"Entre Rios",T,,15121209,entre.rios,BO-T-EntreRios,,"{""area_sr"": 0.43877, ""area_km2"": 5037, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 71, ""side_estim_deg"": 0.6624, ""elongation_factor"": 2.25}"
+4509726,68,273,Padcaya,T,,328276,padcaya,BO-T-Padcaya,,"{""area_sr"": 0.38781, ""area_km2"": 4430, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 66.6, ""side_estim_deg"": 0.6227, ""elongation_factor"": 2.24}"
+4509727,68,274,Tarija,T,,1953215,tarija,BO-T-Tarija,,"{""area_sr"": 0.18593, ""area_km2"": 2132, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 46.2, ""side_estim_deg"": 0.4312, ""elongation_factor"": 2.71}"
+4509728,68,275,Tomayapo,T,,277520,tomayapo,BO-T-Tomayapo,,"{""area_sr"": 0.17918, ""area_km2"": 2059, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 45.4, ""side_estim_deg"": 0.4233, ""elongation_factor"": 2.28}"
+4509729,68,276,Uriondo,T,,689990,uriondo,BO-T-Uriondo,,"{""area_sr"": 0.06998, ""area_km2"": 802, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 28.3, ""side_estim_deg"": 0.2645, ""elongation_factor"": 2.26}"
+4509731,68,278,"Villa Montes",T,,328298,villa.montes,BO-T-VillaMontes,,"{""area_sr"": 1.03496, ""area_km2"": 11875, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 109, ""side_estim_deg"": 1.0173, ""elongation_factor"": 2.14}"
+4509730,68,277,"Villa San Lorenzo",T,,328285,villa.san.lorenzo,BO-T-VillaSanLorenzo,,"{""area_sr"": 0.1714, ""area_km2"": 1970, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 44.4, ""side_estim_deg"": 0.414, ""elongation_factor"": 2.29}"
+4509732,68,279,Yacuíba,T,,328303,yacuiba,BO-T-Yacuiba,,"{""area_sr"": 0.3144, ""area_km2"": 3600, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 60, ""side_estim_deg"": 0.5607, ""elongation_factor"": 1.62}"
+4509733,68,280,Yunchará,T,,328307,yunchara,BO-T-Yunchara,,"{""area_sr"": 0.15992, ""area_km2"": 1831, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 42.8, ""side_estim_deg"": 0.3999, ""elongation_factor"": 1.96}"

@@ -1,84 +1,84 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4500356,68,168,Achacachi,L,,1819965,achacachi,BO-L-Achacachi,,
-4499868,68,163,Achocalla,L,,1552057,achocalla,BO-L-Achocalla,,
-4499791,68,154,"Alto Beni",L,,1952850,alto.beni,BO-L-AltoBeni,,
-4500357,68,169,Ancoraimes,L,,224511,ancoraimes,BO-L-Ancoraimes,,
-4499594,68,138,Apolo,L,,2307341,apolo,BO-L-Apolo,,
-4499718,68,143,Aucapata,L,,287053,aucapata,BO-L-Aucapata,,
-4499719,68,144,Ayata,L,,1544657,ayata,BO-L-Ayata,,
-4500834,68,189,"Ayo Ayo",L,,490965,ayo.ayo,BO-L-AyoAyo,,
-4500399,68,27,Batallas,L,,631626,batallas,BO-L-Batallas,,
-4502103,68,193,Cairoma,L,,1552096,cairoma,BO-L-Cairoma,,
-4502179,68,198,Cajuata,L,,1544600,cajuata,BO-L-Cajuata,,
-4500783,68,179,Calacoto,L,,1409686,calacoto,BO-L-Calacoto,,
-4500831,68,186,Calamarca,L,,490962,calamarca,BO-L-Calamarca,,
-4500784,68,180,Caquiaviri,L,,917595,caquiaviri,BO-L-Caquiaviri,,
-4499792,68,155,Caranavi,L,,916357,caranavi,BO-L-Caranavi,,
-4500609,68,177,Catacora,L,,1501710,catacora,BO-L-Catacora,,
-4502215,68,204,Chacarilla,L,,743427,chacarilla,BO-L-Chacarilla,,
-4499610,68,140,Charazani,L,,1544495,charazani,BO-L-Charazani,,
-4500785,68,181,Charaña,L,,428293,charana,BO-L-Charana,,
-4500358,68,170,"Chua Cocani",L,,1952923,chua.cocani,BO-L-ChuaCocani,,
-4499811,68,156,Chulumani,L,,1552034,chulumani,BO-L-Chulumani,,
-4499720,68,145,Chuma,L,,1552008,chuma,BO-L-Chuma,,
-4500832,68,187,Collana,L,,490945,collana,BO-L-Collana,,
-4500833,68,188,Colquencha,L,,490983,colquencha,BO-L-Colquencha,,
-4502180,68,199,Colquiri,L,,1544551,colquiri,BO-L-Colquiri,,
-4500786,68,182,Comanche,L,,534012,comanche,BO-L-Comanche,,
-4499780,68,148,Combaya,L,,1585114,combaya,BO-L-Combaya,,
-4499823,68,160,Coripata,L,,1303284,coripata,BO-L-Coripata,,
-4500787,68,183,"Coro Coro",L,,60497352,coro.coro,BO-L-CoroCoro,,
-4499824,68,161,Coroico,L,,1552069,coroico,BO-L-Coroico,,
-4499611,68,141,Curva,L,,1544505,curva,BO-L-Curva,,
-4500574,68,31,Desaguadero,L,,1952961,desaguadero,BO-L-Desaguadero,,
-4499832,68,162,"El Alto",L,,955745,el.alto,BO-L-ElAlto,,
-4499651,68,142,Escoma,L,,1952964,escoma,BO-L-Escoma,,
-4499781,68,149,Guanay,L,,1551023,guanay,BO-L-Guanay,,
-4500575,68,32,Guaqui,L,,1118260,guaqui,BO-L-Guaqui,,
-4500359,68,171,Huarina,L,,1591297,huarina,BO-L-Huarina,,
-4500360,68,25,Huatajata,L,,1952976,huatajata,BO-L-Huatajata,,
-4499652,68,121,Humanata,L,,1952986,humanata,BO-L-Humanata,,
-4502181,68,200,Ichoca,L,,1544514,ichoca,BO-L-Ichoca,,
-4502182,68,201,Inquisivi,L,,1819415,inquisivi,BO-L-Inquisivi,,
-4499812,68,157,Irupana,L,,1552014,irupana,BO-L-Irupana,,
-4499583,68,136,Ixiamas,L,,1544558,ixiamas,BO-L-Ixiamas,,
-4500576,68,172,"Jesús de Machaca",L,,1305298,jesus.machaca,BO-L-JesusMachaca,,
-4499813,68,158,"La Asunta",L,,1552078,la.asunta,BO-L-LaAsunta,,
-4499870,68,165,"La Paz",L,,1491,la.paz,BO-L-LaPaz,,
-4500400,68,28,Laja,L,,1544635,laja,BO-L-Laja,,
-4502183,68,202,Licoma,L,,1544480,licoma,BO-L-Licoma,,
-4502104,68,194,Luribay,L,,1819426,luribay,BO-L-Luribay,,
-4502105,68,195,Malla,L,,1315889,malla,BO-L-Malla,,
-4499756,68,147,Mapiri,L,,1585050,mapiri,BO-L-Mapiri,,
-4499869,68,164,Mecapaca,L,,1551628,mecapaca,BO-L-Mecapaca,,
-4499653,68,122,Mocomoco,L,,1544446,mocomoco,BO-L-Mocomoco,,
-4499871,68,166,Palca,L,,1536059,palca,BO-L-Palca,,
-4499814,68,159,"Palos Blancos",L,,1551606,palos.blancos,BO-L-PalosBlancos,,
-4502216,68,205,"Papel Pampa",L,,1434273,papel.pampa,BO-L-PapelPampa,,
-4500835,68,190,Patacamaya,L,,490991,patacamaya,BO-L-Patacamaya,,
-4499595,68,139,Pelechuco,L,,1297662,pelechuco,BO-L-Pelechuco,,
-4500401,68,29,Pucarani,L,,1265440,pucarani,BO-L-Pucarani,,
-4499654,68,123,"Puerto Acosta",L,,1544478,puerto.acosta,BO-L-PuertoAcosta,,
-4499655,68,1,"Puerto Carabuco",L,,289565,puerto.carabuco,BO-L-PuertoCarabuco,,
-4500402,68,30,"Puerto Pérez",L,,1544630,puerto.perez,BO-L-PuertoPerez,,
-4499782,68,150,Quiabaya,L,,1585064,quiabaya,BO-L-Quiabaya,,
-4502184,68,203,Quime,L,,1819405,quime,BO-L-Quime,,
-4500577,68,173,"San Andrés de Machaca",L,,1544522,san.andres.machaca,BO-L-SanAndresMachaca,,
-4499584,68,137,"San Buenaventura",L,,1814898,san.buenaventura,BO-L-SanBuenaventura,,
-4502217,68,206,"San Pedro de Curahuara",L,,1544586,san.pedro.curahuara,BO-L-SanPedroCurahuara,,
-4500788,68,184,"Santiago de Callapa",L,,741915,santiago.callapa,BO-L-SantiagoCallapa,,
-4500361,68,26,"Santiago de Huata",L,,1953187,santiago.huata,BO-L-SantiagoHuata,,
-4500610,68,178,"Santiago de Machaca",L,,1544546,santiago.machaca,BO-L-SantiagoMachaca,,
-4502106,68,196,Sapahaqui,L,,491527,sapahaqui,BO-L-Sapahaqui,,
-4500836,68,191,"Sica Sica",L,,491501,sica.sica,BO-L-SicaSica,,
-4499783,68,151,Sorata,L,,1860758,sorata,BO-L-Sorata,,
-4499721,68,146,Tacacoma,L,,1860830,tacacoma,BO-L-Tacacoma,,
-4500578,68,174,Taraco,L,,1544565,taraco,BO-L-Taraco,,
-4499784,68,152,Teoponte,L,,1026231,teoponte,BO-L-Teoponte,,
-4500579,68,175,Tiahuanacu,L,,681960,tiahuanacu,BO-L-Tiahuanacu,,
-4499785,68,153,Tipuani,L,,1585089,tipuani,BO-L-Tipuani,,
-4500837,68,192,Umala,L,,490956,umala,BO-L-Umala,,
-4500580,68,176,Viacha,L,,1544198,viacha,BO-L-Viacha,,
-4500789,68,185,"Waldo Ballivián",L,,1481997,waldo.ballivian,BO-L-WaldoBallivian,,
-4502107,68,197,Yaco,L,,1552018,yaco,BO-L-Yaco,,
-4500325,68,167,Yanacachi,L,,284758,yanacachi,BO-L-Yanacachi,,
+4500356,68,168,Achacachi,L,,1819965,achacachi,BO-L-Achacachi,,"{""area_sr"": 0.06172, ""area_km2"": 731, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 27, ""side_estim_deg"": 0.2484, ""elongation_factor"": 2.66}"
+4499868,68,163,Achocalla,L,,1552057,achocalla,BO-L-Achocalla,,"{""area_sr"": 0.01495, ""area_km2"": 177, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 13.3, ""side_estim_deg"": 0.1223, ""elongation_factor"": 2.26}"
+4499791,68,154,"Alto Beni",L,,1952850,alto.beni,BO-L-AltoBeni,,"{""area_sr"": 0.08807, ""area_km2"": 1045, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 32.3, ""side_estim_deg"": 0.2968, ""elongation_factor"": 2.24}"
+4500357,68,169,Ancoraimes,L,,224511,ancoraimes,BO-L-Ancoraimes,,"{""area_sr"": 0.02763, ""area_km2"": 327, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 18.1, ""side_estim_deg"": 0.1662, ""elongation_factor"": 1.58}"
+4499594,68,138,Apolo,L,,2307341,apolo,BO-L-Apolo,,"{""area_sr"": 1.16827, ""area_km2"": 13925, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 118, ""side_estim_deg"": 1.0809, ""elongation_factor"": 2.15}"
+4499718,68,143,Aucapata,L,,287053,aucapata,BO-L-Aucapata,,"{""area_sr"": 0.0203, ""area_km2"": 241, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 15.5, ""side_estim_deg"": 0.1425, ""elongation_factor"": 1.33}"
+4499719,68,144,Ayata,L,,1544657,ayata,BO-L-Ayata,,"{""area_sr"": 0.05604, ""area_km2"": 666, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 25.8, ""side_estim_deg"": 0.2367, ""elongation_factor"": 2.59}"
+4500834,68,189,"Ayo Ayo",L,,490965,ayo.ayo,BO-L-AyoAyo,,"{""area_sr"": 0.04147, ""area_km2"": 489, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 22.1, ""side_estim_deg"": 0.2036, ""elongation_factor"": 1.89}"
+4500399,68,27,Batallas,L,,631626,batallas,BO-L-Batallas,,"{""area_sr"": 0.08299, ""area_km2"": 982, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 31.3, ""side_estim_deg"": 0.2881, ""elongation_factor"": 1.71}"
+4502103,68,193,Cairoma,L,,1552096,cairoma,BO-L-Cairoma,,"{""area_sr"": 0.04586, ""area_km2"": 541, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23.3, ""side_estim_deg"": 0.2141, ""elongation_factor"": 1.74}"
+4502179,68,198,Cajuata,L,,1544600,cajuata,BO-L-Cajuata,,"{""area_sr"": 0.08155, ""area_km2"": 963, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 31, ""side_estim_deg"": 0.2856, ""elongation_factor"": 1.96}"
+4500783,68,179,Calacoto,L,,1409686,calacoto,BO-L-Calacoto,,"{""area_sr"": 0.33213, ""area_km2"": 3902, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 62.5, ""side_estim_deg"": 0.5763, ""elongation_factor"": 2.5}"
+4500831,68,186,Calamarca,L,,490962,calamarca,BO-L-Calamarca,,"{""area_sr"": 0.04176, ""area_km2"": 492, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 22.2, ""side_estim_deg"": 0.2043, ""elongation_factor"": 1.21}"
+4500784,68,180,Caquiaviri,L,,917595,caquiaviri,BO-L-Caquiaviri,,"{""area_sr"": 0.13521, ""area_km2"": 1593, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 39.9, ""side_estim_deg"": 0.3677, ""elongation_factor"": 2.86}"
+4499792,68,155,Caranavi,L,,916357,caranavi,BO-L-Caranavi,,"{""area_sr"": 0.13116, ""area_km2"": 1555, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 39.4, ""side_estim_deg"": 0.3622, ""elongation_factor"": 1.5}"
+4500609,68,177,Catacora,L,,1501710,catacora,BO-L-Catacora,,"{""area_sr"": 0.04694, ""area_km2"": 552, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23.5, ""side_estim_deg"": 0.2167, ""elongation_factor"": 1.8}"
+4502215,68,204,Chacarilla,L,,743427,chacarilla,BO-L-Chacarilla,,"{""area_sr"": 0.03126, ""area_km2"": 367, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 19.2, ""side_estim_deg"": 0.1768, ""elongation_factor"": 1.89}"
+4499610,68,140,Charazani,L,,1544495,charazani,BO-L-Charazani,,"{""area_sr"": 0.21561, ""area_km2"": 2565, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 50.6, ""side_estim_deg"": 0.4643, ""elongation_factor"": 2.19}"
+4500785,68,181,Charaña,L,,428293,charana,BO-L-Charana,,"{""area_sr"": 0.24492, ""area_km2"": 2876, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 53.6, ""side_estim_deg"": 0.4949, ""elongation_factor"": 2.06}"
+4500358,68,170,"Chua Cocani",L,,1952923,chua.cocani,BO-L-ChuaCocani,,"{""area_sr"": 0.00671, ""area_km2"": 79, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 8.9, ""side_estim_deg"": 0.0819, ""elongation_factor"": 1.34}"
+4499811,68,156,Chulumani,L,,1552034,chulumani,BO-L-Chulumani,,"{""area_sr"": 0.02412, ""area_km2"": 285, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 16.9, ""side_estim_deg"": 0.1553, ""elongation_factor"": 1.76}"
+4499720,68,145,Chuma,L,,1552008,chuma,BO-L-Chuma,,"{""area_sr"": 0.05009, ""area_km2"": 594, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.2238, ""elongation_factor"": 2.22}"
+4500832,68,187,Collana,L,,490945,collana,BO-L-Collana,,"{""area_sr"": 0.01058, ""area_km2"": 125, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 11.2, ""side_estim_deg"": 0.1028, ""elongation_factor"": 2.78}"
+4500833,68,188,Colquencha,L,,490983,colquencha,BO-L-Colquencha,,"{""area_sr"": 0.02573, ""area_km2"": 303, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 17.4, ""side_estim_deg"": 0.1604, ""elongation_factor"": 1.93}"
+4502180,68,199,Colquiri,L,,1544551,colquiri,BO-L-Colquiri,,"{""area_sr"": 0.08864, ""area_km2"": 1042, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 32.3, ""side_estim_deg"": 0.2977, ""elongation_factor"": 1.72}"
+4500786,68,182,Comanche,L,,534012,comanche,BO-L-Comanche,,"{""area_sr"": 0.03697, ""area_km2"": 436, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 20.9, ""side_estim_deg"": 0.1923, ""elongation_factor"": 2.2}"
+4499780,68,148,Combaya,L,,1585114,combaya,BO-L-Combaya,,"{""area_sr"": 0.00832, ""area_km2"": 99, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 9.9, ""side_estim_deg"": 0.0912, ""elongation_factor"": 1.07}"
+4499823,68,160,Coripata,L,,1303284,coripata,BO-L-Coripata,,"{""area_sr"": 0.05852, ""area_km2"": 692, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 26.3, ""side_estim_deg"": 0.2419, ""elongation_factor"": 2.36}"
+4500787,68,183,"Coro Coro",L,,60497352,coro.coro,BO-L-CoroCoro,,"{""area_sr"": 0.09655, ""area_km2"": 1137, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 33.7, ""side_estim_deg"": 0.3107, ""elongation_factor"": 2.94}"
+4499824,68,161,Coroico,L,,1552069,coroico,BO-L-Coroico,,"{""area_sr"": 0.0916, ""area_km2"": 1084, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 32.9, ""side_estim_deg"": 0.3027, ""elongation_factor"": 1.66}"
+4499611,68,141,Curva,L,,1544505,curva,BO-L-Curva,,"{""area_sr"": 0.05004, ""area_km2"": 596, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.2237, ""elongation_factor"": 2.52}"
+4500574,68,31,Desaguadero,L,,1952961,desaguadero,BO-L-Desaguadero,,"{""area_sr"": 0.00934, ""area_km2"": 110, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 10.5, ""side_estim_deg"": 0.0966, ""elongation_factor"": 1.22}"
+4499832,68,162,"El Alto",L,,955745,el.alto,BO-L-ElAlto,,"{""area_sr"": 0.03258, ""area_km2"": 385, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 19.6, ""side_estim_deg"": 0.1805, ""elongation_factor"": 2.67}"
+4499651,68,142,Escoma,L,,1952964,escoma,BO-L-Escoma,,"{""area_sr"": 0.01001, ""area_km2"": 119, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 10.9, ""side_estim_deg"": 0.1, ""elongation_factor"": 2.17}"
+4499781,68,149,Guanay,L,,1551023,guanay,BO-L-Guanay,,"{""area_sr"": 0.33222, ""area_km2"": 3941, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 62.8, ""side_estim_deg"": 0.5764, ""elongation_factor"": 2.76}"
+4500575,68,32,Guaqui,L,,1118260,guaqui,BO-L-Guaqui,,"{""area_sr"": 0.01658, ""area_km2"": 196, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 14, ""side_estim_deg"": 0.1288, ""elongation_factor"": 2.15}"
+4500359,68,171,Huarina,L,,1591297,huarina,BO-L-Huarina,,"{""area_sr"": 0.01517, ""area_km2"": 180, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 13.4, ""side_estim_deg"": 0.1232, ""elongation_factor"": 2.41}"
+4500360,68,25,Huatajata,L,,1952976,huatajata,BO-L-Huatajata,,"{""area_sr"": 0.00157, ""area_km2"": 19, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 4.3, ""side_estim_deg"": 0.0397, ""elongation_factor"": 1.22}"
+4499652,68,121,Humanata,L,,1952986,humanata,BO-L-Humanata,,"{""area_sr"": 0.02573, ""area_km2"": 306, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 17.5, ""side_estim_deg"": 0.1604, ""elongation_factor"": 1.73}"
+4502181,68,200,Ichoca,L,,1544514,ichoca,BO-L-Ichoca,,"{""area_sr"": 0.07177, ""area_km2"": 845, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2679, ""elongation_factor"": 1.64}"
+4502182,68,201,Inquisivi,L,,1819415,inquisivi,BO-L-Inquisivi,,"{""area_sr"": 0.27638, ""area_km2"": 3262, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 57.1, ""side_estim_deg"": 0.5257, ""elongation_factor"": 2.3}"
+4499812,68,157,Irupana,L,,1552014,irupana,BO-L-Irupana,,"{""area_sr"": 0.11708, ""area_km2"": 1383, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 37.2, ""side_estim_deg"": 0.3422, ""elongation_factor"": 2.24}"
+4499583,68,136,Ixiamas,L,,1544558,ixiamas,BO-L-Ixiamas,,"{""area_sr"": 3.10931, ""area_km2"": 37300, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 193.1, ""side_estim_deg"": 1.7633, ""elongation_factor"": 2.03}"
+4500576,68,172,"Jesús de Machaca",L,,1305298,jesus.machaca,BO-L-JesusMachaca,,"{""area_sr"": 0.08386, ""area_km2"": 990, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 31.5, ""side_estim_deg"": 0.2896, ""elongation_factor"": 1.96}"
+4499813,68,158,"La Asunta",L,,1552078,la.asunta,BO-L-LaAsunta,,"{""area_sr"": 0.23812, ""area_km2"": 2819, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 53.1, ""side_estim_deg"": 0.488, ""elongation_factor"": 1.61}"
+4499870,68,165,"La Paz",L,,1491,la.paz,BO-L-LaPaz,,"{""area_sr"": 0.16817, ""area_km2"": 1990, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 44.6, ""side_estim_deg"": 0.4101, ""elongation_factor"": 2.61}"
+4500400,68,28,Laja,L,,1544635,laja,BO-L-Laja,,"{""area_sr"": 0.05853, ""area_km2"": 691, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 26.3, ""side_estim_deg"": 0.2419, ""elongation_factor"": 1.89}"
+4502183,68,202,Licoma,L,,1544480,licoma,BO-L-Licoma,,"{""area_sr"": 0.01267, ""area_km2"": 150, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 12.2, ""side_estim_deg"": 0.1126, ""elongation_factor"": 2.07}"
+4502104,68,194,Luribay,L,,1819426,luribay,BO-L-Luribay,,"{""area_sr"": 0.04298, ""area_km2"": 506, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 22.5, ""side_estim_deg"": 0.2073, ""elongation_factor"": 2.43}"
+4502105,68,195,Malla,L,,1315889,malla,BO-L-Malla,,"{""area_sr"": 0.02785, ""area_km2"": 328, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 18.1, ""side_estim_deg"": 0.1669, ""elongation_factor"": 1.88}"
+4499756,68,147,Mapiri,L,,1585050,mapiri,BO-L-Mapiri,,"{""area_sr"": 0.12252, ""area_km2"": 1455, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.35, ""elongation_factor"": 2.46}"
+4499869,68,164,Mecapaca,L,,1551628,mecapaca,BO-L-Mecapaca,,"{""area_sr"": 0.04489, ""area_km2"": 530, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23, ""side_estim_deg"": 0.2119, ""elongation_factor"": 1.8}"
+4499653,68,122,Mocomoco,L,,1544446,mocomoco,BO-L-Mocomoco,,"{""area_sr"": 0.04429, ""area_km2"": 526, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 22.9, ""side_estim_deg"": 0.2105, ""elongation_factor"": 2.78}"
+4499871,68,166,Palca,L,,1536059,palca,BO-L-Palca,,"{""area_sr"": 0.06264, ""area_km2"": 739, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 27.2, ""side_estim_deg"": 0.2503, ""elongation_factor"": 2.11}"
+4499814,68,159,"Palos Blancos",L,,1551606,palos.blancos,BO-L-PalosBlancos,,"{""area_sr"": 0.31889, ""area_km2"": 3787, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 61.5, ""side_estim_deg"": 0.5647, ""elongation_factor"": 2.65}"
+4502216,68,205,"Papel Pampa",L,,1434273,papel.pampa,BO-L-PapelPampa,,"{""area_sr"": 0.07598, ""area_km2"": 892, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.9, ""side_estim_deg"": 0.2757, ""elongation_factor"": 1.91}"
+4500835,68,190,Patacamaya,L,,490991,patacamaya,BO-L-Patacamaya,,"{""area_sr"": 0.04821, ""area_km2"": 568, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 23.8, ""side_estim_deg"": 0.2196, ""elongation_factor"": 1.89}"
+4499595,68,139,Pelechuco,L,,1297662,pelechuco,BO-L-Pelechuco,,"{""area_sr"": 0.2114, ""area_km2"": 2518, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 50.2, ""side_estim_deg"": 0.4598, ""elongation_factor"": 2.12}"
+4500401,68,29,Pucarani,L,,1265440,pucarani,BO-L-Pucarani,,"{""area_sr"": 0.0777, ""area_km2"": 919, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 30.3, ""side_estim_deg"": 0.2788, ""elongation_factor"": 2.65}"
+4499654,68,123,"Puerto Acosta",L,,1544478,puerto.acosta,BO-L-PuertoAcosta,,"{""area_sr"": 0.03494, ""area_km2"": 415, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 20.4, ""side_estim_deg"": 0.1869, ""elongation_factor"": 3.2}"
+4499655,68,1,"Puerto Carabuco",L,,289565,puerto.carabuco,BO-L-PuertoCarabuco,,"{""area_sr"": 0.03466, ""area_km2"": 411, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 20.3, ""side_estim_deg"": 0.1862, ""elongation_factor"": 2.81}"
+4500402,68,30,"Puerto Pérez",L,,1544630,puerto.perez,BO-L-PuertoPerez,,"{""area_sr"": 0.01064, ""area_km2"": 126, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 11.2, ""side_estim_deg"": 0.1031, ""elongation_factor"": 4.44}"
+4499782,68,150,Quiabaya,L,,1585064,quiabaya,BO-L-Quiabaya,,"{""area_sr"": 0.01117, ""area_km2"": 133, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 11.5, ""side_estim_deg"": 0.1057, ""elongation_factor"": 1.49}"
+4502184,68,203,Quime,L,,1819405,quime,BO-L-Quime,,"{""area_sr"": 0.07417, ""area_km2"": 875, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.6, ""side_estim_deg"": 0.2723, ""elongation_factor"": 1.95}"
+4500577,68,173,"San Andrés de Machaca",L,,1544522,san.andres.machaca,BO-L-SanAndresMachaca,,"{""area_sr"": 0.12968, ""area_km2"": 1529, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 39.1, ""side_estim_deg"": 0.3601, ""elongation_factor"": 1.53}"
+4499584,68,137,"San Buenaventura",L,,1814898,san.buenaventura,BO-L-SanBuenaventura,,"{""area_sr"": 0.23713, ""area_km2"": 2831, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 53.2, ""side_estim_deg"": 0.487, ""elongation_factor"": 2.12}"
+4502217,68,206,"San Pedro de Curahuara",L,,1544586,san.pedro.curahuara,BO-L-SanPedroCurahuara,,"{""area_sr"": 0.0612, ""area_km2"": 719, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 26.8, ""side_estim_deg"": 0.2474, ""elongation_factor"": 1.99}"
+4500788,68,184,"Santiago de Callapa",L,,741915,santiago.callapa,BO-L-SantiagoCallapa,,"{""area_sr"": 0.10409, ""area_km2"": 1224, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 35, ""side_estim_deg"": 0.3226, ""elongation_factor"": 1.65}"
+4500361,68,26,"Santiago de Huata",L,,1953187,santiago.huata,BO-L-SantiagoHuata,,"{""area_sr"": 0.00786, ""area_km2"": 93, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 9.6, ""side_estim_deg"": 0.0887, ""elongation_factor"": 2.47}"
+4500610,68,178,"Santiago de Machaca",L,,1544546,santiago.machaca,BO-L-SantiagoMachaca,,"{""area_sr"": 0.10702, ""area_km2"": 1260, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 35.5, ""side_estim_deg"": 0.3271, ""elongation_factor"": 2.23}"
+4502106,68,196,Sapahaqui,L,,491527,sapahaqui,BO-L-Sapahaqui,,"{""area_sr"": 0.07143, ""area_km2"": 842, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29, ""side_estim_deg"": 0.2673, ""elongation_factor"": 1.89}"
+4500836,68,191,"Sica Sica",L,,491501,sica.sica,BO-L-SicaSica,,"{""area_sr"": 0.14693, ""area_km2"": 1728, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 41.6, ""side_estim_deg"": 0.3833, ""elongation_factor"": 1.82}"
+4499783,68,151,Sorata,L,,1860758,sorata,BO-L-Sorata,,"{""area_sr"": 0.16896, ""area_km2"": 2004, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 44.8, ""side_estim_deg"": 0.4111, ""elongation_factor"": 2.5}"
+4499721,68,146,Tacacoma,L,,1860830,tacacoma,BO-L-Tacacoma,,"{""area_sr"": 0.06798, ""area_km2"": 808, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 28.4, ""side_estim_deg"": 0.2607, ""elongation_factor"": 2.72}"
+4500578,68,174,Taraco,L,,1544565,taraco,BO-L-Taraco,,"{""area_sr"": 0.00923, ""area_km2"": 109, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 10.4, ""side_estim_deg"": 0.0961, ""elongation_factor"": 2.64}"
+4499784,68,152,Teoponte,L,,1026231,teoponte,BO-L-Teoponte,,"{""area_sr"": 0.11536, ""area_km2"": 1370, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 37, ""side_estim_deg"": 0.3396, ""elongation_factor"": 2.15}"
+4500579,68,175,Tiahuanacu,L,,681960,tiahuanacu,BO-L-Tiahuanacu,,"{""area_sr"": 0.02916, ""area_km2"": 344, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 18.6, ""side_estim_deg"": 0.1708, ""elongation_factor"": 2.05}"
+4499785,68,153,Tipuani,L,,1585089,tipuani,BO-L-Tipuani,,"{""area_sr"": 0.02519, ""area_km2"": 299, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 17.3, ""side_estim_deg"": 0.1587, ""elongation_factor"": 1.67}"
+4500837,68,192,Umala,L,,490956,umala,BO-L-Umala,,"{""area_sr"": 0.07272, ""area_km2"": 855, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.2, ""side_estim_deg"": 0.2697, ""elongation_factor"": 1.53}"
+4500580,68,176,Viacha,L,,1544198,viacha,BO-L-Viacha,,"{""area_sr"": 0.07164, ""area_km2"": 845, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2677, ""elongation_factor"": 1.44}"
+4500789,68,185,"Waldo Ballivián",L,,1481997,waldo.ballivian,BO-L-WaldoBallivian,,"{""area_sr"": 0.01042, ""area_km2"": 123, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 11.1, ""side_estim_deg"": 0.1021, ""elongation_factor"": 1.28}"
+4502107,68,197,Yaco,L,,1552018,yaco,BO-L-Yaco,,"{""area_sr"": 0.05051, ""area_km2"": 594, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.2247, ""elongation_factor"": 1.98}"
+4500325,68,167,Yanacachi,L,,284758,yanacachi,BO-L-Yanacachi,,"{""area_sr"": 0.04868, ""area_km2"": 575, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 24, ""side_estim_deg"": 0.2206, ""elongation_factor"": 1.69}"

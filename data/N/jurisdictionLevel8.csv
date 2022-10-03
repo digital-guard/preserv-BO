@@ -1,16 +1,16 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4050084,68,34,"Bella Flor",N,,198360,bella.flor,BO-N-BellaFlor,,
-4050264,68,38,Bolpebra,N,,198353,bolpebra,BO-N-Bolpebra,,
-4050223,68,35,Cobija,N,,198367,cobija,BO-N-Cobija,,
-4050224,68,36,Filadelfia,N,,198391,filadelfia,BO-N-Filadelfia,,
-3369824,68,19,Ingavi,N,,198351,ingavi,BO-N-Ingavi,,
-3368691,68,16,"Nueva Esperanza",N,,198389,nueva.esperanza,BO-N-NuevaEsperanza,,
-4050225,68,37,Porvenir,N,,1953096,porvenir,BO-N-Porvenir,,
-4051384,68,44,"Puerto Gonzalo Moreno",N,,198392,puerto.gonzalo.moreno,BO-N-PuertoGonzaloMoreno,,
-4051293,68,39,"Puerto Rico",N,,842360,puerto.rico,BO-N-PuertoRico,,
-4051385,68,47,"San Lorenzo",N,,195218,san.lorenzo,BO-N-SanLorenzo,,
-4051294,68,40,"San Pedro",N,,198394,san.pedro,BO-N-SanPedro,,
-4049843,68,33,"Santa Rosa del Abuná",N,,198363,santa.rosa.abuna,BO-N-SantaRosaAbuna,,
-3369463,68,17,"Santos Mercado",N,,198359,santos.mercado,BO-N-SantosMercado,,
-4051386,68,48,Sena,N,,198348,sena,BO-N-Sena,,
-3369464,68,18,"Villa Nueva",N,,198357,villa.nueva,BO-N-VillaNueva,,
+4050084,68,34,"Bella Flor",N,,198360,bella.flor,BO-N-BellaFlor,,"{""area_sr"": 0.43254, ""area_km2"": 5230, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 72.3, ""side_estim_deg"": 0.6577, ""elongation_factor"": 3.4}"
+4050264,68,38,Bolpebra,N,,198353,bolpebra,BO-N-Bolpebra,,"{""area_sr"": 0.20436, ""area_km2"": 2469, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 49.7, ""side_estim_deg"": 0.4521, ""elongation_factor"": 1.93}"
+4050223,68,35,Cobija,N,,198367,cobija,BO-N-Cobija,,"{""area_sr"": 0.0357, ""area_km2"": 432, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.8, ""side_estim_deg"": 0.189, ""elongation_factor"": 2.16}"
+4050224,68,36,Filadelfia,N,,198391,filadelfia,BO-N-Filadelfia,,"{""area_sr"": 0.97533, ""area_km2"": 11761, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 108.5, ""side_estim_deg"": 0.9876, ""elongation_factor"": 1.96}"
+3369824,68,19,Ingavi,N,,198351,ingavi,BO-N-Ingavi,,"{""area_sr"": 0.43198, ""area_km2"": 5230, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 72.3, ""side_estim_deg"": 0.6573, ""elongation_factor"": 2.01}"
+3368691,68,16,"Nueva Esperanza",N,,198389,nueva.esperanza,BO-N-NuevaEsperanza,,"{""area_sr"": 0.31033, ""area_km2"": 3762, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 61.3, ""side_estim_deg"": 0.5571, ""elongation_factor"": 1.59}"
+4050225,68,37,Porvenir,N,,1953096,porvenir,BO-N-Porvenir,,"{""area_sr"": 0.08966, ""area_km2"": 1083, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 32.9, ""side_estim_deg"": 0.2994, ""elongation_factor"": 2.55}"
+4051384,68,44,"Puerto Gonzalo Moreno",N,,198392,puerto.gonzalo.moreno,BO-N-PuertoGonzaloMoreno,,"{""area_sr"": 0.10398, ""area_km2"": 1256, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 35.4, ""side_estim_deg"": 0.3225, ""elongation_factor"": 2.63}"
+4051293,68,39,"Puerto Rico",N,,842360,puerto.rico,BO-N-PuertoRico,,"{""area_sr"": 0.43441, ""area_km2"": 5246, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 72.4, ""side_estim_deg"": 0.6591, ""elongation_factor"": 2.5}"
+4051385,68,47,"San Lorenzo",N,,195218,san.lorenzo,BO-N-SanLorenzo,,"{""area_sr"": 0.26071, ""area_km2"": 3145, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 56.1, ""side_estim_deg"": 0.5106, ""elongation_factor"": 3.69}"
+4051294,68,40,"San Pedro",N,,198394,san.pedro,BO-N-SanPedro,,"{""area_sr"": 0.21873, ""area_km2"": 2644, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.4, ""side_estim_deg"": 0.4677, ""elongation_factor"": 3.71}"
+4049843,68,33,"Santa Rosa del Abuná",N,,198363,santa.rosa.abuna,BO-N-SantaRosaAbuna,,"{""area_sr"": 0.36162, ""area_km2"": 4375, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 66.1, ""side_estim_deg"": 0.6013, ""elongation_factor"": 2.19}"
+3369463,68,17,"Santos Mercado",N,,198359,santos.mercado,BO-N-SantosMercado,,"{""area_sr"": 0.55021, ""area_km2"": 6670, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 81.7, ""side_estim_deg"": 0.7418, ""elongation_factor"": 1.5}"
+4051386,68,48,Sena,N,,198348,sena,BO-N-Sena,,"{""area_sr"": 0.6155, ""area_km2"": 7421, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 86.1, ""side_estim_deg"": 0.7845, ""elongation_factor"": 1.48}"
+3369464,68,18,"Villa Nueva",N,,198357,villa.nueva,BO-N-VillaNueva,,"{""area_sr"": 0.23806, ""area_km2"": 2881, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 53.7, ""side_estim_deg"": 0.4879, ""elongation_factor"": 2.33}"

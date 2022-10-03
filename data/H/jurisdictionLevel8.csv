@@ -1,30 +1,30 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-4509376,68,256,Camargo,H,,1141966,camargo,BO-H-Camargo,,
-4509404,68,260,Culpina,H,,637538,culpina,BO-H-Culpina,,
-4507932,68,293,"El Villar",H,,1142208,el.villar,BO-H-ElVillar,,
-4509405,68,261,Huacaya,H,,1141996,huacaya,BO-H-Huacaya,,
-4507906,68,287,Icla,H,,1142203,icla,BO-H-Icla,,
-4509377,68,257,Incahuasi,H,,1142260,incahuasi,BO-H-Incahuasi,,
-4509406,68,262,"Las Carretas",H,,1142273,las.carretas,BO-H-LasCarretas,,
-4509407,68,263,Machareti,H,,1142267,machareti,BO-H-Machareti,,
-4509408,68,264,Monteagudo,H,,914026,monteagudo,BO-H-Monteagudo,,
-4507933,68,250,Padilla,H,,1142006,padilla,BO-H-Padilla,,
-4507877,68,247,Poroma,H,,182203,poroma,BO-H-Poroma,,
-4507907,68,288,Presto,H,,1585103,presto,BO-H-Presto,,
-4509375,68,255,"San Lucas",H,,783480,san.lucas,BO-H-SanLucas,,
-4509409,68,265,"San Pablo de Huacareta",H,,1142195,san.pablo.huacareta,BO-H-SanPabloHuacareta,,
-4507934,68,251,Sopachuy,H,,1142253,sopachuy,BO-H-Sopachuy,,
-4507878,68,248,Sucre,H,,1304750,sucre,BO-H-Sucre,,
-4507914,68,291,Tarabuco,H,,1860776,tarabuco,BO-H-Tarabuco,,
-4509410,68,266,Tarvita,H,,1142233,tarvita,BO-H-Tarvita,,
-4507935,68,252,Tomina,H,,633697,tomina,BO-H-Tomina,,
-4509411,68,267,"Villa Abecia",H,,1142199,villa.abecia,BO-H-VillaAbecia,,
-4507936,68,253,"Villa Alcala",H,,955703,villa.alcala,BO-H-VillaAlcala,,
-4509412,68,268,"Villa Azurduy",H,,1585034,villa.azurduy,BO-H-VillaAzurduy,,
-4509378,68,259,"Villa Charcas",H,,1146801,villa.charcas,BO-H-VillaCharcas,,
-4507908,68,289,"Villa Mojocoya",H,,1142257,villa.mojocoya,BO-H-VillaMojocoya,,
-4507937,68,254,"Villa Serrano",H,,1953257,villa.serrano,BO-H-VillaSerrano,,
-4509413,68,269,"Villa Vaca Guzman",H,,121543,villa.vaca.guzman,BO-H-VillaVacaGuzman,,
-4507915,68,292,Yamparaez,H,,2599274,yamparaez,BO-H-Yamparaez,,
-4507879,68,286,Yotala,H,,1142025,yotala,BO-H-Yotala,,
-4507909,68,290,Zudañez,H,,1142243,zudanez,BO-H-Zudanez,,
+4509376,68,256,Camargo,H,,1141966,camargo,BO-H-Camargo,,"{""area_sr"": 0.18005, ""area_km2"": 2078, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 45.6, ""side_estim_deg"": 0.4243, ""elongation_factor"": 1.96}"
+4509404,68,260,Culpina,H,,637538,culpina,BO-H-Culpina,,"{""area_sr"": 0.34254, ""area_km2"": 3946, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 62.8, ""side_estim_deg"": 0.5853, ""elongation_factor"": 2.5}"
+4507932,68,293,"El Villar",H,,1142208,el.villar,BO-H-ElVillar,,"{""area_sr"": 0.07718, ""area_km2"": 896, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 29.9, ""side_estim_deg"": 0.2778, ""elongation_factor"": 1.53}"
+4509405,68,261,Huacaya,H,,1141996,huacaya,BO-H-Huacaya,,"{""area_sr"": 0.10294, ""area_km2"": 1187, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 34.5, ""side_estim_deg"": 0.3208, ""elongation_factor"": 1.83}"
+4507906,68,287,Icla,H,,1142203,icla,BO-H-Icla,,"{""area_sr"": 0.07283, ""area_km2"": 846, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2699, ""elongation_factor"": 1.61}"
+4509377,68,257,Incahuasi,H,,1142260,incahuasi,BO-H-Incahuasi,,"{""area_sr"": 0.09179, ""area_km2"": 1059, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 32.5, ""side_estim_deg"": 0.303, ""elongation_factor"": 2.58}"
+4509406,68,262,"Las Carretas",H,,1142273,las.carretas,BO-H-LasCarretas,,"{""area_sr"": 0.0867, ""area_km2"": 996, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 31.6, ""side_estim_deg"": 0.2944, ""elongation_factor"": 1.75}"
+4509407,68,263,Machareti,H,,1142267,machareti,BO-H-Machareti,,"{""area_sr"": 0.67701, ""area_km2"": 7813, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 88.4, ""side_estim_deg"": 0.8228, ""elongation_factor"": 1.64}"
+4509408,68,264,Monteagudo,H,,914026,monteagudo,BO-H-Monteagudo,,"{""area_sr"": 0.29249, ""area_km2"": 3388, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 58.2, ""side_estim_deg"": 0.5408, ""elongation_factor"": 2.73}"
+4507933,68,250,Padilla,H,,1142006,padilla,BO-H-Padilla,,"{""area_sr"": 0.13931, ""area_km2"": 1620, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 40.2, ""side_estim_deg"": 0.3732, ""elongation_factor"": 2.01}"
+4507877,68,247,Poroma,H,,182203,poroma,BO-H-Poroma,,"{""area_sr"": 0.11948, ""area_km2"": 1396, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 37.4, ""side_estim_deg"": 0.3457, ""elongation_factor"": 2.45}"
+4507907,68,288,Presto,H,,1585103,presto,BO-H-Presto,,"{""area_sr"": 0.11384, ""area_km2"": 1329, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 36.5, ""side_estim_deg"": 0.3374, ""elongation_factor"": 1.73}"
+4509375,68,255,"San Lucas",H,,783480,san.lucas,BO-H-SanLucas,,"{""area_sr"": 0.33217, ""area_km2"": 3844, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 62, ""side_estim_deg"": 0.5763, ""elongation_factor"": 2.08}"
+4509409,68,265,"San Pablo de Huacareta",H,,1142195,san.pablo.huacareta,BO-H-SanPabloHuacareta,,"{""area_sr"": 0.25668, ""area_km2"": 2962, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 54.4, ""side_estim_deg"": 0.5066, ""elongation_factor"": 2.03}"
+4507934,68,251,Sopachuy,H,,1142253,sopachuy,BO-H-Sopachuy,,"{""area_sr"": 0.05338, ""area_km2"": 620, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 24.9, ""side_estim_deg"": 0.231, ""elongation_factor"": 1.9}"
+4507878,68,248,Sucre,H,,1304750,sucre,BO-H-Sucre,,"{""area_sr"": 0.15598, ""area_km2"": 1819, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 42.6, ""side_estim_deg"": 0.3949, ""elongation_factor"": 2.5}"
+4507914,68,291,Tarabuco,H,,1860776,tarabuco,BO-H-Tarabuco,,"{""area_sr"": 0.08837, ""area_km2"": 1029, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 32.1, ""side_estim_deg"": 0.2973, ""elongation_factor"": 2.14}"
+4509410,68,266,Tarvita,H,,1142233,tarvita,BO-H-Tarvita,,"{""area_sr"": 0.11496, ""area_km2"": 1334, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 36.5, ""side_estim_deg"": 0.3391, ""elongation_factor"": 1.74}"
+4507935,68,252,Tomina,H,,633697,tomina,BO-H-Tomina,,"{""area_sr"": 0.07103, ""area_km2"": 827, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 28.8, ""side_estim_deg"": 0.2665, ""elongation_factor"": 1.95}"
+4509411,68,267,"Villa Abecia",H,,1142199,villa.abecia,BO-H-VillaAbecia,,"{""area_sr"": 0.06142, ""area_km2"": 707, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 26.6, ""side_estim_deg"": 0.2478, ""elongation_factor"": 1.75}"
+4507936,68,253,"Villa Alcala",H,,955703,villa.alcala,BO-H-VillaAlcala,,"{""area_sr"": 0.02691, ""area_km2"": 313, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 17.7, ""side_estim_deg"": 0.164, ""elongation_factor"": 1.71}"
+4509412,68,268,"Villa Azurduy",H,,1585034,villa.azurduy,BO-H-VillaAzurduy,,"{""area_sr"": 0.14696, ""area_km2"": 1701, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 41.2, ""side_estim_deg"": 0.3834, ""elongation_factor"": 1.93}"
+4509378,68,259,"Villa Charcas",H,,1146801,villa.charcas,BO-H-VillaCharcas,,"{""area_sr"": 0.05971, ""area_km2"": 689, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 26.3, ""side_estim_deg"": 0.2444, ""elongation_factor"": 1.93}"
+4507908,68,289,"Villa Mojocoya",H,,1142257,villa.mojocoya,BO-H-VillaMojocoya,,"{""area_sr"": 0.10694, ""area_km2"": 1248, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 35.3, ""side_estim_deg"": 0.327, ""elongation_factor"": 1.62}"
+4507937,68,254,"Villa Serrano",H,,1953257,villa.serrano,BO-H-VillaSerrano,,"{""area_sr"": 0.14696, ""area_km2"": 1713, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 41.4, ""side_estim_deg"": 0.3834, ""elongation_factor"": 1.99}"
+4509413,68,269,"Villa Vaca Guzman",H,,121543,villa.vaca.guzman,BO-H-VillaVacaGuzman,,"{""area_sr"": 0.32762, ""area_km2"": 3798, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 61.6, ""side_estim_deg"": 0.5724, ""elongation_factor"": 3.72}"
+4507915,68,292,Yamparaez,H,,2599274,yamparaez,BO-H-Yamparaez,,"{""area_sr"": 0.05121, ""area_km2"": 596, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.2263, ""elongation_factor"": 1.9}"
+4507879,68,286,Yotala,H,,1142025,yotala,BO-H-Yotala,,"{""area_sr"": 0.03889, ""area_km2"": 453, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 21.3, ""side_estim_deg"": 0.1972, ""elongation_factor"": 1.56}"
+4507909,68,290,Zudañez,H,,1142243,zudanez,BO-H-Zudanez,,"{""area_sr"": 0.06019, ""area_km2"": 701, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 26.5, ""side_estim_deg"": 0.2453, ""elongation_factor"": 1.63}"
